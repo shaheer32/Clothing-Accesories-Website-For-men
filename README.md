@@ -1,0 +1,1 @@
+Create a clothing and accesories website for men in which they can view the clothing details like size, color and cloth textile/material.In accesories we have caps,shoes and watches.Then if they want to order it then they can order. I use hteml and css to create this website.
