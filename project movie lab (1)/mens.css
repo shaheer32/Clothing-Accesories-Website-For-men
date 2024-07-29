@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#div{
+    background-color:rgb(71, 72, 73) ;
+    color: azure;
+    padding: 20px;
+    text-align:left;
+}
+
+body{
+    background-color: rgb(71, 72, 73);
+}
+
+
+.dropbtn {
+  background-color: black;
+  color: white;
+  padding: 16px;
+  font-size: 18px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  width: 180px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  border-radius: 25px;
+  font-size: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  cursor: pointer;
+  
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  
+}
+
+.dropdown-content a:hover {
+    
+    background-color: #ddd;
+    width: 101px;
+
+
+}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+#head{
+
+font-size: 80px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+

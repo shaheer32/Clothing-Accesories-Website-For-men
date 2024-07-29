@@ -1,0 +1,168 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body
+{
+  background: scroll;
+  background-image: none ;
+}
+.navigation{
+    background-color: black;
+    width: 100%;
+    height: 110px;
+    word-spacing: px;
+    left: 0%;
+    position: fixed;
+   
+}
+
+body{
+    overflow-x: hidden;
+    background-image: url("images/img.jpg");
+    
+    
+
+}
+.navigation button{
+    position: relative;
+    left: 54%;
+    height: 55px;
+    width: 128px;
+    background-color:black ;
+    color: azure;
+    border: 1px solid black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 25px;
+    font-size: 18px;
+    letter-spacing: 2px;
+    
+    top: 24px;
+    margin: 7px;
+    
+    
+  
+}  
+.navigation :hover{
+    background-color: rgb(245, 251, 254);
+/*        box-shadow: 10px 20px 70px white;*/
+    color:rgb(17,19,20) ;
+    cursor: pointer;
+    animation: .2s;
+    transition: .2s linear;
+
+}
+
+
+
+.logo1,.logo2,.logo3,.logo4,.logo5.logo6{
+letter-spacing:0px ;
+
+}
+
+
+
+.log img{
+height: 110px;
+width: 300px;
+filter: opacity(150);
+margin-left: 70px;
+border-radius: 20px;
+}
+
+
+
+.gallery {
+    margin: 25px;  
+    border: 15px solid rgb(235, 231, 231);
+    float: left;
+    width: 70%;
+    height: 100px;
+    display: table;
+    margin-left: 299px;
+    border-radius: 20px;
+    background-color: rgb(237, 234, 234);
+    
+     
+
+    
+    
+  }
+  
+  div.gallery:hover {
+    border: 5px solid rgb(237, 234, 234);
+    border-radius: 15px;
+     transition: 0.4s;        
+  }
+  
+  div.gallery img {
+width: 250px;
+height: 300px;
+margin: 50px;
+margin-left: 30px;
+padding: 0px;
+border: 15px;
+
+
+}
+
+
+
+
+  
+  div.desc {
+    padding: 12px;
+    text-align: center;
+    font-size: 50px;
+    margin-left: 300px;
+    margin-top: -100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    
+
+  }
+
+  .text{
+    position: relative;
+    top: -150px;
+  }
+
+
+
+
+#h1{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.container{
+margin-top: 50px;
+}
+
+
+#head{
+
+font-size: 80px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+footer
+{
+width: 100%;
+height: 600px;
+background-color: black;
+margin-top: 150%;
+color: white;
+}
+footer ul{
+cursor: pointer;
+color: white;
+}
